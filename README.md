@@ -24,7 +24,8 @@
 
 笔记图片二级文件夹：
 
-![笔记图片二级文件夹](https://files.mdnice.com/user/32110/a4d7f941-460e-4ff6-a4ff-dd5e72999715.png)
+<img width="1440" height="697" alt="image" src="https://github.com/user-attachments/assets/ff7592c9-4fa2-4929-ab80-cd4b65455c75" />
+
  
 图片文件的存储规则：
 1. 以博主昵称命名一级文件夹
@@ -108,7 +109,7 @@ def get_logger(self):
 	return self.logger
 ```
 日志文件截图：
-![log文件](https://files.mdnice.com/user/32110/8ad13a0d-ee0e-47e5-87b0-5aad4cb006ff.png)
+<img width="1104" height="896" alt="image" src="https://github.com/user-attachments/assets/c703df54-04dd-4d3a-9a36-f94309e409cb" />
  
 以上。
 
